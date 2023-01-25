@@ -2,7 +2,7 @@
 ispwApplication:
   host: cwcc.bmc.com
   port: 16196
-  runtimeConfig: ispw
+  runtimeConfig: iccga
   stream: GITDEMO1
   application: GITD
   pathMappings:
