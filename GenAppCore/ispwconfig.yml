@@ -5,7 +5,6 @@ ispwApplication:
   runtimeConfig: iccga
   stream: GITDEMO1
   application: GITD
-  sandbox: Y
   pathMappings:
   - path: "**/Sources/**"
     types:
